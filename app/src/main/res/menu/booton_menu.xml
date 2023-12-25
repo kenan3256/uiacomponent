@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/hommFragment"
+        android:title="@string/Home"
+        android:icon="@drawable/ic_home" />
+    <item
+        android:id="@+id/addFragment"
+        android:icon="@drawable/ic_setting"
+        android:title="@string/Add" />
+    <item
+        android:id="@+id/detalisFragment"
+        android:icon="@drawable/ic_backap"
+        android:title="@string/Mirt" />
+</menu>
