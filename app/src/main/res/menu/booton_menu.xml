@@ -10,9 +10,9 @@
     <item
         android:id="@+id/addFragment"
         android:icon="@drawable/ic_setting"
-        android:title="@string/Add" />
+        android:title="@string/Setting" />
     <item
         android:id="@+id/detalisFragment"
         android:icon="@drawable/ic_backap"
-        android:title="@string/Mirt" />
+        android:title="@string/Back" />
 </menu>

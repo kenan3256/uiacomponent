@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">uiacomponent</string>
 
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
     <string name="Home">Home</string>
-    <string name="Add">Add</string>
+    <string name="Setting">Setting</string>
     <string name="Back">Back</string>
     <string name="Mirt">Mirt</string>
 
